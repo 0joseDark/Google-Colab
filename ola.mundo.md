@@ -1,3 +1,4 @@
+```python
 # Exibir "Olá, Mundo!"
 print("Olá, Mundo!")
 
@@ -6,3 +7,4 @@ resposta = input("Como você está? ")
 
 # Exibir resposta
 print("Você respondeu:", resposta)
+```
